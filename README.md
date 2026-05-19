@@ -1,7 +1,5 @@
 # Hi there, I'm Eman Siddiqui 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=EmanSiddiqui&color=blue&style=flat)
-
 ---
 
 ## 👩‍💻 About Me
