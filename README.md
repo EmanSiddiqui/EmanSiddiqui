@@ -10,7 +10,6 @@ efficient code and continuously improving my skills as a developer.
 - 🎓 Currently pursuing a **Bachelor's degree in Computer Science**
 - 💻 Completed my first semester with hands-on **C programming projects**
 - 🚀 Expanding into **C++, OOP & Design Patterns**
-- 🌐 Learning **HTML, CSS & JavaScript** for web development
 - 📚 Eager to learn **Data Structures & Algorithms**
 - 🤝 Open to **collaborations, open-source contributions, and peer learning**
 
